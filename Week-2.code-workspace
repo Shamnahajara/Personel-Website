@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../website project SHAMNA"
+		},
+		{
+			"path": "../../AmazonPrime"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Week-2"
+	}
+}
